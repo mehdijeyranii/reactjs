@@ -1,0 +1,16 @@
+.table{
+    width: 100%;
+    border-collapse: separate;
+}
+
+.table-header{
+    font-size: 1.2rem;
+    text-align: left;
+    background-color: #e0e0e0;
+    padding: 8px 4px;
+    color: #1f1f1f;
+}
+
+.table-body{
+    padding: 8px 4px;
+}
